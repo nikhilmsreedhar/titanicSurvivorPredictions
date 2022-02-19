@@ -3,7 +3,7 @@ PassengerId,Survived
 893,No
 894,No
 895,No
-896,No
+896,Yes
 897,No
 898,Yes
 899,No
@@ -33,7 +33,7 @@ PassengerId,Survived
 923,No
 924,Yes
 925,No
-926,No
+926,Yes
 927,No
 928,No
 929,No
@@ -63,7 +63,7 @@ PassengerId,Survived
 953,No
 954,No
 955,Yes
-956,Yes
+956,No
 957,Yes
 958,Yes
 959,No
@@ -89,7 +89,7 @@ PassengerId,Survived
 979,Yes
 980,Yes
 981,Yes
-982,No
+982,Yes
 983,No
 984,Yes
 985,No
@@ -117,14 +117,14 @@ PassengerId,Survived
 1007,No
 1008,No
 1009,Yes
-1010,No
+1010,Yes
 1011,Yes
 1012,Yes
 1013,No
 1014,Yes
-1015,No
+1015,Yes
 1016,No
-1017,Yes
+1017,No
 1018,No
 1019,Yes
 1020,No
@@ -157,7 +157,7 @@ PassengerId,Survived
 1047,No
 1048,Yes
 1049,Yes
-1050,Yes
+1050,No
 1051,Yes
 1052,Yes
 1053,Yes
@@ -233,7 +233,7 @@ PassengerId,Survived
 1123,Yes
 1124,No
 1125,No
-1126,No
+1126,Yes
 1127,No
 1128,No
 1129,No
@@ -269,7 +269,7 @@ PassengerId,Survived
 1159,No
 1160,No
 1161,No
-1162,No
+1162,Yes
 1163,No
 1164,Yes
 1165,Yes
@@ -299,8 +299,8 @@ PassengerId,Survived
 1189,Yes
 1190,No
 1191,No
-1192,No
-1193,Yes
+1192,Yes
+1193,No
 1194,No
 1195,No
 1196,Yes
@@ -340,7 +340,7 @@ PassengerId,Survived
 1230,No
 1231,No
 1232,No
-1233,No
+1233,Yes
 1234,Yes
 1235,Yes
 1236,No
@@ -358,7 +358,7 @@ PassengerId,Survived
 1248,Yes
 1249,No
 1250,No
-1251,No
+1251,Yes
 1252,No
 1253,Yes
 1254,Yes
@@ -382,14 +382,14 @@ PassengerId,Survived
 1272,No
 1273,No
 1274,Yes
-1275,Yes
+1275,No
 1276,No
 1277,Yes
 1278,No
 1279,No
 1280,No
 1281,Yes
-1282,No
+1282,Yes
 1283,Yes
 1284,No
 1285,No
@@ -403,7 +403,7 @@ PassengerId,Survived
 1293,No
 1294,Yes
 1295,No
-1296,Yes
+1296,No
 1297,No
 1298,No
 1299,No
@@ -416,4 +416,4 @@ PassengerId,Survived
 1306,Yes
 1307,No
 1308,No
-1309,Yes
+1309,No
