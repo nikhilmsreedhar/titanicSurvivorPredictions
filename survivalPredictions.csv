@@ -1,419 +1,419 @@
-PassengerId,Survived
-892,No
-893,No
-894,No
-895,No
-896,Yes
-897,No
-898,Yes
-899,No
-900,Yes
-901,No
-902,No
-903,No
-904,Yes
-905,No
-906,Yes
-907,Yes
-908,No
-909,Yes
-910,Yes
-911,No
-912,No
-913,Yes
-914,Yes
-915,No
-916,Yes
-917,No
-918,Yes
-919,No
-920,No
-921,Yes
-922,No
-923,No
-924,Yes
-925,No
-926,Yes
-927,No
-928,No
-929,No
-930,No
-931,No
-932,No
-933,No
-934,No
-935,Yes
-936,Yes
-937,No
-938,No
-939,No
-940,Yes
-941,Yes
-942,No
-943,No
-944,Yes
-945,Yes
-946,No
-947,No
-948,No
-949,No
-950,No
-951,Yes
-952,No
-953,No
-954,No
-955,Yes
-956,No
-957,Yes
-958,Yes
-959,No
-960,No
-961,Yes
-962,Yes
-963,No
-964,No
-965,Yes
-966,Yes
-967,No
-968,No
-969,Yes
-970,No
-971,Yes
-972,Yes
-973,No
-974,No
-975,No
-976,No
-977,No
-978,Yes
-979,Yes
-980,Yes
-981,Yes
-982,Yes
-983,No
-984,Yes
-985,No
-986,No
-987,No
-988,Yes
-989,No
-990,Yes
-991,No
-992,Yes
-993,No
-994,No
-995,No
-996,Yes
-997,No
-998,No
-999,No
-1000,No
-1001,No
-1002,No
-1003,Yes
-1004,Yes
-1005,Yes
-1006,Yes
-1007,No
-1008,No
-1009,Yes
-1010,Yes
-1011,Yes
-1012,Yes
-1013,No
-1014,Yes
-1015,Yes
-1016,No
-1017,No
-1018,No
-1019,Yes
-1020,No
-1021,No
-1022,No
-1023,No
-1024,No
-1025,No
-1026,No
-1027,No
-1028,No
-1029,No
-1030,No
-1031,No
-1032,No
-1033,Yes
-1034,No
-1035,No
-1036,No
-1037,No
-1038,Yes
-1039,No
-1040,No
-1041,No
-1042,Yes
-1043,No
-1044,No
-1045,Yes
-1046,No
-1047,No
-1048,Yes
-1049,Yes
-1050,No
-1051,Yes
-1052,Yes
-1053,Yes
-1054,Yes
-1055,No
-1056,No
-1057,No
-1058,Yes
-1059,No
-1060,Yes
-1061,No
-1062,No
-1063,No
-1064,No
-1065,No
-1066,No
-1067,Yes
-1068,Yes
-1069,No
-1070,Yes
-1071,Yes
-1072,No
-1073,Yes
-1074,Yes
-1075,No
-1076,Yes
-1077,No
-1078,Yes
-1079,No
-1080,No
-1081,No
-1082,No
-1083,No
-1084,Yes
-1085,No
-1086,Yes
-1087,No
-1088,Yes
-1089,Yes
-1090,No
-1091,No
-1092,Yes
-1093,Yes
-1094,No
-1095,Yes
-1096,No
-1097,No
-1098,No
-1099,No
-1100,Yes
-1101,No
-1102,No
-1103,No
-1104,No
-1105,Yes
-1106,No
-1107,No
-1108,Yes
-1109,No
-1110,Yes
-1111,No
-1112,Yes
-1113,No
-1114,Yes
-1115,No
-1116,Yes
-1117,No
-1118,No
-1119,Yes
-1120,No
-1121,No
-1122,No
-1123,Yes
-1124,No
-1125,No
-1126,Yes
-1127,No
-1128,No
-1129,No
-1130,Yes
-1131,Yes
-1132,Yes
-1133,Yes
-1134,No
-1135,No
-1136,No
-1137,Yes
-1138,Yes
-1139,No
-1140,Yes
-1141,No
-1142,Yes
-1143,No
-1144,No
-1145,No
-1146,No
-1147,No
-1148,No
-1149,Yes
-1150,Yes
-1151,No
-1152,No
-1153,No
-1154,Yes
-1155,Yes
-1156,No
-1157,No
-1158,No
-1159,No
-1160,No
-1161,No
-1162,Yes
-1163,No
-1164,Yes
-1165,Yes
-1166,No
-1167,Yes
-1168,No
-1169,No
-1170,No
-1171,No
-1172,No
-1173,Yes
-1174,Yes
-1175,No
-1176,Yes
-1177,No
-1178,No
-1179,No
-1180,No
-1181,No
-1182,No
-1183,No
-1184,No
-1185,No
-1186,No
-1187,No
-1188,Yes
-1189,Yes
-1190,No
-1191,No
-1192,Yes
-1193,No
-1194,No
-1195,No
-1196,Yes
-1197,Yes
-1198,No
-1199,Yes
-1200,No
-1201,No
-1202,No
-1203,No
-1204,No
-1205,No
-1206,Yes
-1207,Yes
-1208,No
-1209,No
-1210,No
-1211,No
-1212,No
-1213,No
-1214,No
-1215,No
-1216,Yes
-1217,No
-1218,Yes
-1219,No
-1220,No
-1221,No
-1222,Yes
-1223,No
-1224,No
-1225,No
-1226,No
-1227,No
-1228,No
-1229,No
-1230,No
-1231,No
-1232,No
-1233,Yes
-1234,Yes
-1235,Yes
-1236,No
-1237,No
-1238,No
-1239,No
-1240,No
-1241,Yes
-1242,Yes
-1243,No
-1244,No
-1245,No
-1246,Yes
-1247,No
-1248,Yes
-1249,No
-1250,No
-1251,Yes
-1252,No
-1253,Yes
-1254,Yes
-1255,No
-1256,Yes
-1257,No
-1258,No
-1259,No
-1260,Yes
-1261,No
-1262,No
-1263,Yes
-1264,No
-1265,No
-1266,Yes
-1267,Yes
-1268,No
-1269,No
-1270,No
-1271,No
-1272,No
-1273,No
-1274,Yes
-1275,No
-1276,No
-1277,Yes
-1278,No
-1279,No
-1280,No
-1281,Yes
-1282,Yes
-1283,Yes
-1284,No
-1285,No
-1286,No
-1287,Yes
-1288,No
-1289,Yes
-1290,No
-1291,No
-1292,Yes
-1293,No
-1294,Yes
-1295,No
-1296,No
-1297,No
-1298,No
-1299,No
-1300,Yes
-1301,Yes
-1302,Yes
-1303,Yes
-1304,Yes
-1305,No
-1306,Yes
-1307,No
-1308,No
-1309,No
+PassengerId,Name,Survived
+892,"Kelly, Mr. James",No
+893,"Wilkes, Mrs. James (Ellen Needs)",No
+894,"Myles, Mr. Thomas Francis",No
+895,"Wirz, Mr. Albert",No
+896,"Hirvonen, Mrs. Alexander (Helga E Lindqvist)",Yes
+897,"Svensson, Mr. Johan Cervin",No
+898,"Connolly, Miss. Kate",Yes
+899,"Caldwell, Mr. Albert Francis",No
+900,"Abrahim, Mrs. Joseph (Sophie Halaut Easu)",Yes
+901,"Davies, Mr. John Samuel",No
+902,"Ilieff, Mr. Ylio",No
+903,"Jones, Mr. Charles Cresson",No
+904,"Snyder, Mrs. John Pillsbury (Nelle Stevenson)",Yes
+905,"Howard, Mr. Benjamin",No
+906,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",Yes
+907,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",Yes
+908,"Keane, Mr. Daniel",No
+909,"Assaf, Mr. Gerios",No
+910,"Ilmakangas, Miss. Ida Livija",Yes
+911,"Assaf Khalil, Mrs. Mariana (Miriam"")""",No
+912,"Rothschild, Mr. Martin",No
+913,"Olsen, Master. Artur Karl",No
+914,"Flegenheim, Mrs. Alfred (Antoinette)",Yes
+915,"Williams, Mr. Richard Norris II",No
+916,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",Yes
+917,"Robins, Mr. Alexander A",No
+918,"Ostby, Miss. Helene Ragnhild",Yes
+919,"Daher, Mr. Shedid",No
+920,"Brady, Mr. John Bertram",No
+921,"Samaan, Mr. Elias",Yes
+922,"Louch, Mr. Charles Alexander",No
+923,"Jefferys, Mr. Clifford Thomas",No
+924,"Dean, Mrs. Bertram (Eva Georgetta Light)",Yes
+925,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",No
+926,"Mock, Mr. Philipp Edmund",Yes
+927,"Katavelas, Mr. Vassilios (Catavelas Vassilios"")""",No
+928,"Roth, Miss. Sarah A",No
+929,"Cacic, Miss. Manda",No
+930,"Sap, Mr. Julius",No
+931,"Hee, Mr. Ling",No
+932,"Karun, Mr. Franz",No
+933,"Franklin, Mr. Thomas Parham",No
+934,"Goldsmith, Mr. Nathan",No
+935,"Corbett, Mrs. Walter H (Irene Colvin)",Yes
+936,"Kimball, Mrs. Edwin Nelson Jr (Gertrude Parsons)",Yes
+937,"Peltomaki, Mr. Nikolai Johannes",No
+938,"Chevre, Mr. Paul Romaine",No
+939,"Shaughnessy, Mr. Patrick",No
+940,"Bucknell, Mrs. William Robert (Emma Eliza Ward)",Yes
+941,"Coutts, Mrs. William (Winnie Minnie"" Treanor)""",Yes
+942,"Smith, Mr. Lucien Philip",No
+943,"Pulbaum, Mr. Franz",No
+944,"Hocking, Miss. Ellen Nellie""""",Yes
+945,"Fortune, Miss. Ethel Flora",Yes
+946,"Mangiavacchi, Mr. Serafino Emilio",No
+947,"Rice, Master. Albert",No
+948,"Cor, Mr. Bartol",No
+949,"Abelseth, Mr. Olaus Jorgensen",No
+950,"Davison, Mr. Thomas Henry",No
+951,"Chaudanson, Miss. Victorine",Yes
+952,"Dika, Mr. Mirko",No
+953,"McCrae, Mr. Arthur Gordon",No
+954,"Bjorklund, Mr. Ernst Herbert",No
+955,"Bradley, Miss. Bridget Delia",Yes
+956,"Ryerson, Master. John Borie",Yes
+957,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",Yes
+958,"Burns, Miss. Mary Delia",Yes
+959,"Moore, Mr. Clarence Bloomfield",No
+960,"Tucker, Mr. Gilbert Milligan Jr",No
+961,"Fortune, Mrs. Mark (Mary McDougald)",Yes
+962,"Mulvihill, Miss. Bertha E",Yes
+963,"Minkoff, Mr. Lazar",No
+964,"Nieminen, Miss. Manta Josefina",No
+965,"Ovies y Rodriguez, Mr. Servando",Yes
+966,"Geiger, Miss. Amalie",Yes
+967,"Keeping, Mr. Edwin",No
+968,"Miles, Mr. Frank",No
+969,"Cornell, Mrs. Robert Clifford (Malvina Helen Lamson)",Yes
+970,"Aldworth, Mr. Charles Augustus",No
+971,"Doyle, Miss. Elizabeth",Yes
+972,"Boulos, Master. Akar",Yes
+973,"Straus, Mr. Isidor",No
+974,"Case, Mr. Howard Brown",No
+975,"Demetri, Mr. Marinko",No
+976,"Lamb, Mr. John Joseph",No
+977,"Khalil, Mr. Betros",No
+978,"Barry, Miss. Julia",Yes
+979,"Badman, Miss. Emily Louisa",Yes
+980,"O'Donoghue, Ms. Bridget",Yes
+981,"Wells, Master. Ralph Lester",Yes
+982,"Dyker, Mrs. Adolf Fredrik (Anna Elisabeth Judith Andersson)",Yes
+983,"Pedersen, Mr. Olaf",No
+984,"Davidson, Mrs. Thornton (Orian Hays)",Yes
+985,"Guest, Mr. Robert",No
+986,"Birnbaum, Mr. Jakob",No
+987,"Tenglin, Mr. Gunnar Isidor",No
+988,"Cavendish, Mrs. Tyrell William (Julia Florence Siegel)",Yes
+989,"Makinen, Mr. Kalle Edvard",No
+990,"Braf, Miss. Elin Ester Maria",Yes
+991,"Nancarrow, Mr. William Henry",No
+992,"Stengel, Mrs. Charles Emil Henry (Annie May Morris)",Yes
+993,"Weisz, Mr. Leopold",No
+994,"Foley, Mr. William",No
+995,"Johansson Palmquist, Mr. Oskar Leander",No
+996,"Thomas, Mrs. Alexander (Thamine Thelma"")""",Yes
+997,"Holthen, Mr. Johan Martin",No
+998,"Buckley, Mr. Daniel",No
+999,"Ryan, Mr. Edward",No
+1000,"Willer, Mr. Aaron (Abi Weller"")""",No
+1001,"Swane, Mr. George",No
+1002,"Stanton, Mr. Samuel Ward",No
+1003,"Shine, Miss. Ellen Natalia",Yes
+1004,"Evans, Miss. Edith Corse",Yes
+1005,"Buckley, Miss. Katherine",Yes
+1006,"Straus, Mrs. Isidor (Rosalie Ida Blun)",Yes
+1007,"Chronopoulos, Mr. Demetrios",No
+1008,"Thomas, Mr. John",No
+1009,"Sandstrom, Miss. Beatrice Irene",Yes
+1010,"Beattie, Mr. Thomson",Yes
+1011,"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",Yes
+1012,"Watt, Miss. Bertha J",Yes
+1013,"Kiernan, Mr. John",No
+1014,"Schabert, Mrs. Paul (Emma Mock)",Yes
+1015,"Carver, Mr. Alfred John",No
+1016,"Kennedy, Mr. John",No
+1017,"Cribb, Miss. Laura Alice",No
+1018,"Brobeck, Mr. Karl Rudolf",No
+1019,"McCoy, Miss. Alicia",Yes
+1020,"Bowenur, Mr. Solomon",No
+1021,"Petersen, Mr. Marius",No
+1022,"Spinner, Mr. Henry John",No
+1023,"Gracie, Col. Archibald IV",No
+1024,"Lefebre, Mrs. Frank (Frances)",No
+1025,"Thomas, Mr. Charles P",No
+1026,"Dintcheff, Mr. Valtcho",No
+1027,"Carlsson, Mr. Carl Robert",No
+1028,"Zakarian, Mr. Mapriededer",No
+1029,"Schmidt, Mr. August",No
+1030,"Drapkin, Miss. Jennie",No
+1031,"Goodwin, Mr. Charles Frederick",No
+1032,"Goodwin, Miss. Jessie Allis",No
+1033,"Daniels, Miss. Sarah",Yes
+1034,"Ryerson, Mr. Arthur Larned",No
+1035,"Beauchamp, Mr. Henry James",No
+1036,"Lindeberg-Lind, Mr. Erik Gustaf (Mr Edward Lingrey"")""",No
+1037,"Vander Planke, Mr. Julius",No
+1038,"Hilliard, Mr. Herbert Henry",Yes
+1039,"Davies, Mr. Evan",No
+1040,"Crafton, Mr. John Bertram",No
+1041,"Lahtinen, Rev. William",No
+1042,"Earnshaw, Mrs. Boulton (Olive Potter)",Yes
+1043,"Matinoff, Mr. Nicola",No
+1044,"Storey, Mr. Thomas",No
+1045,"Klasen, Mrs. (Hulda Kristina Eugenia Lofqvist)",Yes
+1046,"Asplund, Master. Filip Oscar",No
+1047,"Duquemin, Mr. Joseph",No
+1048,"Bird, Miss. Ellen",Yes
+1049,"Lundin, Miss. Olga Elida",Yes
+1050,"Borebank, Mr. John James",No
+1051,"Peacock, Mrs. Benjamin (Edith Nile)",Yes
+1052,"Smyth, Miss. Julia",Yes
+1053,"Touma, Master. Georges Youssef",Yes
+1054,"Wright, Miss. Marion",Yes
+1055,"Pearce, Mr. Ernest",No
+1056,"Peruschitz, Rev. Joseph Maria",No
+1057,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",No
+1058,"Brandeis, Mr. Emil",No
+1059,"Ford, Mr. Edward Watson",No
+1060,"Cassebeer, Mrs. Henry Arthur Jr (Eleanor Genevieve Fosdick)",Yes
+1061,"Hellstrom, Miss. Hilda Maria",No
+1062,"Lithman, Mr. Simon",No
+1063,"Zakarian, Mr. Ortin",No
+1064,"Dyker, Mr. Adolf Fredrik",No
+1065,"Torfa, Mr. Assad",No
+1066,"Asplund, Mr. Carl Oscar Vilhelm Gustafsson",No
+1067,"Brown, Miss. Edith Eileen",Yes
+1068,"Sincock, Miss. Maude",Yes
+1069,"Stengel, Mr. Charles Emil Henry",No
+1070,"Becker, Mrs. Allen Oliver (Nellie E Baumgardner)",Yes
+1071,"Compton, Mrs. Alexander Taylor (Mary Eliza Ingersoll)",Yes
+1072,"McCrie, Mr. James Matthew",No
+1073,"Compton, Mr. Alexander Taylor Jr",Yes
+1074,"Marvin, Mrs. Daniel Warner (Mary Graham Carmichael Farquarson)",Yes
+1075,"Lane, Mr. Patrick",No
+1076,"Douglas, Mrs. Frederick Charles (Mary Helene Baxter)",Yes
+1077,"Maybery, Mr. Frank Hubert",No
+1078,"Phillips, Miss. Alice Frances Louisa",Yes
+1079,"Davies, Mr. Joseph",No
+1080,"Sage, Miss. Ada",No
+1081,"Veal, Mr. James",No
+1082,"Angle, Mr. William A",No
+1083,"Salomon, Mr. Abraham L",No
+1084,"van Billiard, Master. Walter John",No
+1085,"Lingane, Mr. John",No
+1086,"Drew, Master. Marshall Brines",Yes
+1087,"Karlsson, Mr. Julius Konrad Eugen",No
+1088,"Spedden, Master. Robert Douglas",Yes
+1089,"Nilsson, Miss. Berta Olivia",Yes
+1090,"Baimbrigge, Mr. Charles Robert",No
+1091,"Rasmussen, Mrs. (Lena Jacobsen Solvang)",No
+1092,"Murphy, Miss. Nora",Yes
+1093,"Danbom, Master. Gilbert Sigvard Emanuel",Yes
+1094,"Astor, Col. John Jacob",No
+1095,"Quick, Miss. Winifred Vera",Yes
+1096,"Andrew, Mr. Frank Thomas",No
+1097,"Omont, Mr. Alfred Fernand",No
+1098,"McGowan, Miss. Katherine",No
+1099,"Collett, Mr. Sidney C Stuart",No
+1100,"Rosenbaum, Miss. Edith Louise",Yes
+1101,"Delalic, Mr. Redjo",No
+1102,"Andersen, Mr. Albert Karvin",No
+1103,"Finoli, Mr. Luigi",No
+1104,"Deacon, Mr. Percy William",No
+1105,"Howard, Mrs. Benjamin (Ellen Truelove Arman)",Yes
+1106,"Andersson, Miss. Ida Augusta Margareta",No
+1107,"Head, Mr. Christopher",No
+1108,"Mahon, Miss. Bridget Delia",Yes
+1109,"Wick, Mr. George Dennick",No
+1110,"Widener, Mrs. George Dunton (Eleanor Elkins)",Yes
+1111,"Thomson, Mr. Alexander Morrison",No
+1112,"Duran y More, Miss. Florentina",Yes
+1113,"Reynolds, Mr. Harold J",No
+1114,"Cook, Mrs. (Selena Rogers)",Yes
+1115,"Karlsson, Mr. Einar Gervasius",No
+1116,"Candee, Mrs. Edward (Helen Churchill Hungerford)",Yes
+1117,"Moubarek, Mrs. George (Omine Amenia"" Alexander)""",No
+1118,"Asplund, Mr. Johan Charles",No
+1119,"McNeill, Miss. Bridget",Yes
+1120,"Everett, Mr. Thomas James",No
+1121,"Hocking, Mr. Samuel James Metcalfe",No
+1122,"Sweet, Mr. George Frederick",No
+1123,"Willard, Miss. Constance",Yes
+1124,"Wiklund, Mr. Karl Johan",No
+1125,"Linehan, Mr. Michael",No
+1126,"Cumings, Mr. John Bradley",Yes
+1127,"Vendel, Mr. Olof Edvin",No
+1128,"Warren, Mr. Frank Manley",No
+1129,"Baccos, Mr. Raffull",No
+1130,"Hiltunen, Miss. Marta",Yes
+1131,"Douglas, Mrs. Walter Donald (Mahala Dutton)",Yes
+1132,"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",Yes
+1133,"Christy, Mrs. (Alice Frances)",Yes
+1134,"Spedden, Mr. Frederic Oakley",No
+1135,"Hyman, Mr. Abraham",No
+1136,"Johnston, Master. William Arthur Willie""""",No
+1137,"Kenyon, Mr. Frederick R",Yes
+1138,"Karnes, Mrs. J Frank (Claire Bennett)",Yes
+1139,"Drew, Mr. James Vivian",No
+1140,"Hold, Mrs. Stephen (Annie Margaret Hill)",Yes
+1141,"Khalil, Mrs. Betros (Zahie Maria"" Elias)""",Yes
+1142,"West, Miss. Barbara J",Yes
+1143,"Abrahamsson, Mr. Abraham August Johannes",No
+1144,"Clark, Mr. Walter Miller",No
+1145,"Salander, Mr. Karl Johan",No
+1146,"Wenzel, Mr. Linhart",No
+1147,"MacKay, Mr. George William",No
+1148,"Mahon, Mr. John",No
+1149,"Niklasson, Mr. Samuel",No
+1150,"Bentham, Miss. Lilian W",Yes
+1151,"Midtsjo, Mr. Karl Albert",No
+1152,"de Messemaeker, Mr. Guillaume Joseph",No
+1153,"Nilsson, Mr. August Ferdinand",No
+1154,"Wells, Mrs. Arthur Henry (Addie"" Dart Trevaskis)""",Yes
+1155,"Klasen, Miss. Gertrud Emilia",Yes
+1156,"Portaluppi, Mr. Emilio Ilario Giuseppe",No
+1157,"Lyntakoff, Mr. Stanko",No
+1158,"Chisholm, Mr. Roderick Robert Crispin",No
+1159,"Warren, Mr. Charles William",No
+1160,"Howard, Miss. May Elizabeth",No
+1161,"Pokrnic, Mr. Mate",No
+1162,"McCaffry, Mr. Thomas Francis",No
+1163,"Fox, Mr. Patrick",No
+1164,"Clark, Mrs. Walter Miller (Virginia McDowell)",Yes
+1165,"Lennon, Miss. Mary",Yes
+1166,"Saade, Mr. Jean Nassr",No
+1167,"Bryhl, Miss. Dagmar Jenny Ingeborg ",Yes
+1168,"Parker, Mr. Clifford Richard",No
+1169,"Faunthorpe, Mr. Harry",No
+1170,"Ware, Mr. John James",No
+1171,"Oxenham, Mr. Percy Thomas",No
+1172,"Oreskovic, Miss. Jelka",No
+1173,"Peacock, Master. Alfred Edward",Yes
+1174,"Fleming, Miss. Honora",Yes
+1175,"Touma, Miss. Maria Youssef",No
+1176,"Rosblom, Miss. Salli Helena",Yes
+1177,"Dennis, Mr. William",No
+1178,"Franklin, Mr. Charles (Charles Fardon)",No
+1179,"Snyder, Mr. John Pillsbury",No
+1180,"Mardirosian, Mr. Sarkis",No
+1181,"Ford, Mr. Arthur",No
+1182,"Rheims, Mr. George Alexander Lucien",No
+1183,"Daly, Miss. Margaret Marcella Maggie""""",Yes
+1184,"Nasr, Mr. Mustafa",No
+1185,"Dodge, Dr. Washington",No
+1186,"Wittevrongel, Mr. Camille",No
+1187,"Angheloff, Mr. Minko",No
+1188,"Laroche, Miss. Louise",Yes
+1189,"Samaan, Mr. Hanna",Yes
+1190,"Loring, Mr. Joseph Holland",No
+1191,"Johansson, Mr. Nils",No
+1192,"Olsson, Mr. Oscar Wilhelm",No
+1193,"Malachard, Mr. Noel",Yes
+1194,"Phillips, Mr. Escott Robert",No
+1195,"Pokrnic, Mr. Tome",No
+1196,"McCarthy, Miss. Catherine Katie""""",Yes
+1197,"Crosby, Mrs. Edward Gifford (Catherine Elizabeth Halstead)",Yes
+1198,"Allison, Mr. Hudson Joshua Creighton",No
+1199,"Aks, Master. Philip Frank",Yes
+1200,"Hays, Mr. Charles Melville",No
+1201,"Hansen, Mrs. Claus Peter (Jennie L Howard)",No
+1202,"Cacic, Mr. Jego Grga",No
+1203,"Vartanian, Mr. David",No
+1204,"Sadowitz, Mr. Harry",No
+1205,"Carr, Miss. Jeannie",No
+1206,"White, Mrs. John Stuart (Ella Holmes)",Yes
+1207,"Hagardon, Miss. Kate",Yes
+1208,"Spencer, Mr. William Augustus",No
+1209,"Rogers, Mr. Reginald Harry",No
+1210,"Jonsson, Mr. Nils Hilding",No
+1211,"Jefferys, Mr. Ernest Wilfred",No
+1212,"Andersson, Mr. Johan Samuel",No
+1213,"Krekorian, Mr. Neshan",No
+1214,"Nesson, Mr. Israel",No
+1215,"Rowe, Mr. Alfred G",No
+1216,"Kreuchen, Miss. Emilie",Yes
+1217,"Assam, Mr. Ali",No
+1218,"Becker, Miss. Ruth Elizabeth",Yes
+1219,"Rosenshine, Mr. George (Mr George Thorne"")""",No
+1220,"Clarke, Mr. Charles Valentine",No
+1221,"Enander, Mr. Ingvar",No
+1222,"Davies, Mrs. John Morgan (Elizabeth Agnes Mary White) ",Yes
+1223,"Dulles, Mr. William Crothers",No
+1224,"Thomas, Mr. Tannous",No
+1225,"Nakid, Mrs. Said (Waika Mary"" Mowad)""",No
+1226,"Cor, Mr. Ivan",No
+1227,"Maguire, Mr. John Edward",No
+1228,"de Brito, Mr. Jose Joaquim",No
+1229,"Elias, Mr. Joseph",No
+1230,"Denbury, Mr. Herbert",No
+1231,"Betros, Master. Seman",No
+1232,"Fillbrook, Mr. Joseph Charles",No
+1233,"Lundstrom, Mr. Thure Edvin",No
+1234,"Sage, Mr. John George",No
+1235,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",Yes
+1236,"van Billiard, Master. James William",No
+1237,"Abelseth, Miss. Karen Marie",Yes
+1238,"Botsford, Mr. William Hull",No
+1239,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",No
+1240,"Giles, Mr. Ralph",No
+1241,"Walcroft, Miss. Nellie",Yes
+1242,"Greenfield, Mrs. Leo David (Blanche Strouse)",Yes
+1243,"Stokes, Mr. Philip Joseph",No
+1244,"Dibden, Mr. William",No
+1245,"Herman, Mr. Samuel",No
+1246,"Dean, Miss. Elizabeth Gladys Millvina""""",Yes
+1247,"Julian, Mr. Henry Forbes",No
+1248,"Brown, Mrs. John Murray (Caroline Lane Lamson)",Yes
+1249,"Lockyer, Mr. Edward",No
+1250,"O'Keefe, Mr. Patrick",No
+1251,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",No
+1252,"Sage, Master. William Henry",No
+1253,"Mallet, Mrs. Albert (Antoinette Magnin)",Yes
+1254,"Ware, Mrs. John James (Florence Louise Long)",Yes
+1255,"Strilic, Mr. Ivan",No
+1256,"Harder, Mrs. George Achilles (Dorothy Annan)",Yes
+1257,"Sage, Mrs. John (Annie Bullen)",No
+1258,"Caram, Mr. Joseph",No
+1259,"Riihivouri, Miss. Susanna Juhantytar Sanni""""",No
+1260,"Gibson, Mrs. Leonard (Pauline C Boeson)",Yes
+1261,"Pallas y Castello, Mr. Emilio",No
+1262,"Giles, Mr. Edgar",No
+1263,"Wilson, Miss. Helen Alice",Yes
+1264,"Ismay, Mr. Joseph Bruce",No
+1265,"Harbeck, Mr. William H",No
+1266,"Dodge, Mrs. Washington (Ruth Vidaver)",Yes
+1267,"Bowen, Miss. Grace Scott",Yes
+1268,"Kink, Miss. Maria",No
+1269,"Cotterill, Mr. Henry Harry""""",No
+1270,"Hipkins, Mr. William Edward",No
+1271,"Asplund, Master. Carl Edgar",No
+1272,"O'Connor, Mr. Patrick",No
+1273,"Foley, Mr. Joseph",No
+1274,"Risien, Mrs. Samuel (Emma)",Yes
+1275,"McNamee, Mrs. Neal (Eileen O'Leary)",No
+1276,"Wheeler, Mr. Edwin Frederick""""",No
+1277,"Herman, Miss. Kate",Yes
+1278,"Aronsson, Mr. Ernst Axel Algot",No
+1279,"Ashby, Mr. John",No
+1280,"Canavan, Mr. Patrick",No
+1281,"Palsson, Master. Paul Folke",Yes
+1282,"Payne, Mr. Vivian Ponsonby",No
+1283,"Lines, Mrs. Ernest H (Elizabeth Lindsey James)",Yes
+1284,"Abbott, Master. Eugene Joseph",No
+1285,"Gilbert, Mr. William",No
+1286,"Kink-Heilmann, Mr. Anton",No
+1287,"Smith, Mrs. Lucien Philip (Mary Eloise Hughes)",Yes
+1288,"Colbert, Mr. Patrick",No
+1289,"Frolicher-Stehli, Mrs. Maxmillian (Margaretha Emerentia Stehli)",Yes
+1290,"Larsson-Rondberg, Mr. Edvard A",No
+1291,"Conlon, Mr. Thomas Henry",No
+1292,"Bonnell, Miss. Caroline",Yes
+1293,"Gale, Mr. Harry",No
+1294,"Gibson, Miss. Dorothy Winifred",Yes
+1295,"Carrau, Mr. Jose Pedro",No
+1296,"Frauenthal, Mr. Isaac Gerald",No
+1297,"Nourney, Mr. Alfred (Baron von Drachstedt"")""",No
+1298,"Ware, Mr. William Jeffery",No
+1299,"Widener, Mr. George Dunton",No
+1300,"Riordan, Miss. Johanna Hannah""""",Yes
+1301,"Peacock, Miss. Treasteall",Yes
+1302,"Naughton, Miss. Hannah",Yes
+1303,"Minahan, Mrs. William Edward (Lillian E Thorpe)",Yes
+1304,"Henriksson, Miss. Jenny Lovisa",Yes
+1305,"Spector, Mr. Woolf",No
+1306,"Oliva y Ocana, Dona. Fermina",Yes
+1307,"Saether, Mr. Simon Sivertsen",No
+1308,"Ware, Mr. Frederick",No
+1309,"Peter, Master. Michael J",Yes
