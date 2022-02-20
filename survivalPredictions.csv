@@ -16,22 +16,22 @@ PassengerId,Name,Survived
 906,"Chaffee, Mrs. Herbert Fuller (Carrie Constance Toogood)",Yes
 907,"del Carlo, Mrs. Sebastiano (Argenia Genovesi)",Yes
 908,"Keane, Mr. Daniel",No
-909,"Assaf, Mr. Gerios",No
+909,"Assaf, Mr. Gerios",Yes
 910,"Ilmakangas, Miss. Ida Livija",Yes
 911,"Assaf Khalil, Mrs. Mariana (Miriam"")""",No
 912,"Rothschild, Mr. Martin",No
-913,"Olsen, Master. Artur Karl",No
+913,"Olsen, Master. Artur Karl",Yes
 914,"Flegenheim, Mrs. Alfred (Antoinette)",Yes
 915,"Williams, Mr. Richard Norris II",No
 916,"Ryerson, Mrs. Arthur Larned (Emily Maria Borie)",Yes
 917,"Robins, Mr. Alexander A",No
 918,"Ostby, Miss. Helene Ragnhild",Yes
-919,"Daher, Mr. Shedid",No
+919,"Daher, Mr. Shedid",Yes
 920,"Brady, Mr. John Bertram",No
-921,"Samaan, Mr. Elias",Yes
+921,"Samaan, Mr. Elias",No
 922,"Louch, Mr. Charles Alexander",No
 923,"Jefferys, Mr. Clifford Thomas",No
-924,"Dean, Mrs. Bertram (Eva Georgetta Light)",Yes
+924,"Dean, Mrs. Bertram (Eva Georgetta Light)",No
 925,"Johnston, Mrs. Andrew G (Elizabeth Lily"" Watson)""",No
 926,"Mock, Mr. Philipp Edmund",Yes
 927,"Katavelas, Mr. Vassilios (Catavelas Vassilios"")""",No
@@ -62,7 +62,7 @@ PassengerId,Name,Survived
 952,"Dika, Mr. Mirko",No
 953,"McCrae, Mr. Arthur Gordon",No
 954,"Bjorklund, Mr. Ernst Herbert",No
-955,"Bradley, Miss. Bridget Delia",Yes
+955,"Bradley, Miss. Bridget Delia",No
 956,"Ryerson, Master. John Borie",Yes
 957,"Corey, Mrs. Percy C (Mary Phyllis Elizabeth Miller)",Yes
 958,"Burns, Miss. Mary Delia",Yes
@@ -117,7 +117,7 @@ PassengerId,Name,Survived
 1007,"Chronopoulos, Mr. Demetrios",No
 1008,"Thomas, Mr. John",No
 1009,"Sandstrom, Miss. Beatrice Irene",Yes
-1010,"Beattie, Mr. Thomson",Yes
+1010,"Beattie, Mr. Thomson",No
 1011,"Chapman, Mrs. John Henry (Sara Elizabeth Lawry)",Yes
 1012,"Watt, Miss. Bertha J",Yes
 1013,"Kiernan, Mr. John",No
@@ -145,7 +145,7 @@ PassengerId,Name,Survived
 1035,"Beauchamp, Mr. Henry James",No
 1036,"Lindeberg-Lind, Mr. Erik Gustaf (Mr Edward Lingrey"")""",No
 1037,"Vander Planke, Mr. Julius",No
-1038,"Hilliard, Mr. Herbert Henry",Yes
+1038,"Hilliard, Mr. Herbert Henry",No
 1039,"Davies, Mr. Evan",No
 1040,"Crafton, Mr. John Bertram",No
 1041,"Lahtinen, Rev. William",No
@@ -161,7 +161,7 @@ PassengerId,Name,Survived
 1051,"Peacock, Mrs. Benjamin (Edith Nile)",Yes
 1052,"Smyth, Miss. Julia",Yes
 1053,"Touma, Master. Georges Youssef",Yes
-1054,"Wright, Miss. Marion",Yes
+1054,"Wright, Miss. Marion",No
 1055,"Pearce, Mr. Ernest",No
 1056,"Peruschitz, Rev. Joseph Maria",No
 1057,"Kink-Heilmann, Mrs. Anton (Luise Heilmann)",No
@@ -191,7 +191,7 @@ PassengerId,Name,Survived
 1081,"Veal, Mr. James",No
 1082,"Angle, Mr. William A",No
 1083,"Salomon, Mr. Abraham L",No
-1084,"van Billiard, Master. Walter John",No
+1084,"van Billiard, Master. Walter John",Yes
 1085,"Lingane, Mr. John",No
 1086,"Drew, Master. Marshall Brines",Yes
 1087,"Karlsson, Mr. Julius Konrad Eugen",No
@@ -233,10 +233,10 @@ PassengerId,Name,Survived
 1123,"Willard, Miss. Constance",Yes
 1124,"Wiklund, Mr. Karl Johan",No
 1125,"Linehan, Mr. Michael",No
-1126,"Cumings, Mr. John Bradley",Yes
+1126,"Cumings, Mr. John Bradley",No
 1127,"Vendel, Mr. Olof Edvin",No
 1128,"Warren, Mr. Frank Manley",No
-1129,"Baccos, Mr. Raffull",No
+1129,"Baccos, Mr. Raffull",Yes
 1130,"Hiltunen, Miss. Marta",Yes
 1131,"Douglas, Mrs. Walter Donald (Mahala Dutton)",Yes
 1132,"Lindstrom, Mrs. Carl Johan (Sigrid Posse)",Yes
@@ -248,7 +248,7 @@ PassengerId,Name,Survived
 1138,"Karnes, Mrs. J Frank (Claire Bennett)",Yes
 1139,"Drew, Mr. James Vivian",No
 1140,"Hold, Mrs. Stephen (Annie Margaret Hill)",Yes
-1141,"Khalil, Mrs. Betros (Zahie Maria"" Elias)""",Yes
+1141,"Khalil, Mrs. Betros (Zahie Maria"" Elias)""",No
 1142,"West, Miss. Barbara J",Yes
 1143,"Abrahamsson, Mr. Abraham August Johannes",No
 1144,"Clark, Mr. Walter Miller",No
@@ -256,7 +256,7 @@ PassengerId,Name,Survived
 1146,"Wenzel, Mr. Linhart",No
 1147,"MacKay, Mr. George William",No
 1148,"Mahon, Mr. John",No
-1149,"Niklasson, Mr. Samuel",No
+1149,"Niklasson, Mr. Samuel",Yes
 1150,"Bentham, Miss. Lilian W",Yes
 1151,"Midtsjo, Mr. Karl Albert",No
 1152,"de Messemaeker, Mr. Guillaume Joseph",No
@@ -290,16 +290,16 @@ PassengerId,Name,Survived
 1180,"Mardirosian, Mr. Sarkis",No
 1181,"Ford, Mr. Arthur",No
 1182,"Rheims, Mr. George Alexander Lucien",No
-1183,"Daly, Miss. Margaret Marcella Maggie""""",Yes
+1183,"Daly, Miss. Margaret Marcella Maggie""""",No
 1184,"Nasr, Mr. Mustafa",No
 1185,"Dodge, Dr. Washington",No
 1186,"Wittevrongel, Mr. Camille",No
 1187,"Angheloff, Mr. Minko",No
 1188,"Laroche, Miss. Louise",Yes
-1189,"Samaan, Mr. Hanna",Yes
+1189,"Samaan, Mr. Hanna",No
 1190,"Loring, Mr. Joseph Holland",No
 1191,"Johansson, Mr. Nils",No
-1192,"Olsson, Mr. Oscar Wilhelm",No
+1192,"Olsson, Mr. Oscar Wilhelm",Yes
 1193,"Malachard, Mr. Noel",Yes
 1194,"Phillips, Mr. Escott Robert",No
 1195,"Pokrnic, Mr. Tome",No
@@ -310,7 +310,7 @@ PassengerId,Name,Survived
 1200,"Hays, Mr. Charles Melville",No
 1201,"Hansen, Mrs. Claus Peter (Jennie L Howard)",No
 1202,"Cacic, Mr. Jego Grga",No
-1203,"Vartanian, Mr. David",No
+1203,"Vartanian, Mr. David",Yes
 1204,"Sadowitz, Mr. Harry",No
 1205,"Carr, Miss. Jeannie",No
 1206,"White, Mrs. John Stuart (Ella Holmes)",Yes
@@ -340,11 +340,11 @@ PassengerId,Name,Survived
 1230,"Denbury, Mr. Herbert",No
 1231,"Betros, Master. Seman",No
 1232,"Fillbrook, Mr. Joseph Charles",No
-1233,"Lundstrom, Mr. Thure Edvin",No
-1234,"Sage, Mr. John George",No
+1233,"Lundstrom, Mr. Thure Edvin",Yes
+1234,"Sage, Mr. John George",Yes
 1235,"Cardeza, Mrs. James Warburton Martinez (Charlotte Wardle Drake)",Yes
 1236,"van Billiard, Master. James William",No
-1237,"Abelseth, Miss. Karen Marie",Yes
+1237,"Abelseth, Miss. Karen Marie",No
 1238,"Botsford, Mr. William Hull",No
 1239,"Whabee, Mrs. George Joseph (Shawneene Abi-Saab)",No
 1240,"Giles, Mr. Ralph",No
@@ -358,7 +358,7 @@ PassengerId,Name,Survived
 1248,"Brown, Mrs. John Murray (Caroline Lane Lamson)",Yes
 1249,"Lockyer, Mr. Edward",No
 1250,"O'Keefe, Mr. Patrick",No
-1251,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",No
+1251,"Lindell, Mrs. Edvard Bengtsson (Elin Gerda Persson)",Yes
 1252,"Sage, Master. William Henry",No
 1253,"Mallet, Mrs. Albert (Antoinette Magnin)",Yes
 1254,"Ware, Mrs. John James (Florence Louise Long)",Yes
@@ -416,4 +416,4 @@ PassengerId,Name,Survived
 1306,"Oliva y Ocana, Dona. Fermina",Yes
 1307,"Saether, Mr. Simon Sivertsen",No
 1308,"Ware, Mr. Frederick",No
-1309,"Peter, Master. Michael J",Yes
+1309,"Peter, Master. Michael J",No
